@@ -47,24 +47,17 @@ end
 
 (* Demonstration *)
 
-let test_text t =
-    TextDocument.load t;
-    TextDocument.save t;
-    TextDocument.print t
-
-
-let test_drawing t =
-    let open DrawingDocument in
-    load t;
-    save t;
-    print t
+let test (module D: PrintableDocument) t =
+    D.load t;
+    D.save t;
+    D.print t
 
 
 let () =
     print_endline "";
-    test_text "text";
+    test (module TextDocument) "text";
     print_endline "";
-    test_drawing "drawing";
+    test (module DrawingDocument) "drawing";
     print_endline "";
 
 
