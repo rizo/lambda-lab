@@ -13,3 +13,8 @@ Currently there are solutions for Haskell and OCaml. If you with to contribute w
   - <http://paulkoerbitz.de/posts/Solving-the-Expression-Problem-in-Haskell-and-Java.html>
 - Julia's approach with generic methods and multiple dispatch:
   - <http://nbviewer.ipython.org/gist/StefanKarpinski/b8fe9dbb36c1427b9f22>
+- Notes about expression problem in Rust with the inspiration from Idris:
+  - <http://www.reddit.com/r/rust/comments/2a0l7g/rustgraphics_expression_problem_idris_and_rust/>
+- Solving the expression problem in Magpie:
+  - <http://journal.stuffwithstuff.com/2010/10/01/solving-the-expression-problem/>
+
