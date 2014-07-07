@@ -17,4 +17,6 @@ Currently there are solutions for Haskell and OCaml. If you with to contribute w
   - <http://www.reddit.com/r/rust/comments/2a0l7g/rustgraphics_expression_problem_idris_and_rust/>
 - Solving the expression problem in Magpie:
   - <http://journal.stuffwithstuff.com/2010/10/01/solving-the-expression-problem/>
+- From Object Oriented Programming to Functional Programming - Inheritance and the Expression Problem
+  - <https://github.com/Dobiasd/articles/blob/master/from_oop_to_fp_-_inheritance_and_the_expression_problem.md>
 
