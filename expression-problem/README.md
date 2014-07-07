@@ -11,4 +11,5 @@ Currently there are solutions for Haskell and OCaml. If you with to contribute w
   - <http://homepages.inf.ed.ac.uk/wadler/papers/expression/expression.txt>
 - Solving the Expression Problem in Haskell and Java by Paul Körbitz:
   - <http://paulkoerbitz.de/posts/Solving-the-Expression-Problem-in-Haskell-and-Java.html>
-
+- Julia's approach with generic methods and multiple dispatch:
+  - <http://nbviewer.ipython.org/gist/StefanKarpinski/b8fe9dbb36c1427b9f22>
